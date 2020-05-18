@@ -32,7 +32,7 @@ body {
 }
 
 /* FORM */
-.form-group > label {
+.form-group>label {
   display: block;
   margin-bottom: 0.3rem;
   font-size: 1.5rem;
@@ -78,6 +78,7 @@ body {
 #table {
   max-width: 700px;
 }
+
 #table th {
   width: 40%;
   text-align: left;
@@ -111,7 +112,8 @@ body {
 .error {
   color: #fff;
   padding: 10px;
-  margin: 7px 0 15px 0;
+  margin: -7px 0 20px 0;
+  border-radius: 5px;
 }
 
 .success {
