@@ -123,3 +123,15 @@ body {
 .error {
   background-color: red;
 }
+
+/* CREATOR */
+#creator {
+  font-size: .7rem;
+  text-align: center;
+  color: #7f8b9c;
+}
+
+#creator a {
+  color: #7f8b9c;
+
+}
